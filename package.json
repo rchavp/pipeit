@@ -1,0 +1,15 @@
+{
+  "name": "pipeit",
+  "version": "1.0.0",
+  "description": "Stream functions using generators and promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ricardo Chavarria",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
